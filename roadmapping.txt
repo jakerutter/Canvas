@@ -1,0 +1,7 @@
+Regarding Canvas:
+
+1. Create a collection of shapes that shapes can be selected from when draw() is called.
+2. Decide how the colors will progress and scale. 
+    a. As properties of the shapes that are called.
+    b. As continuations of the previous series of colors.
+3. 
